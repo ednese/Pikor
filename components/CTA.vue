@@ -10,7 +10,7 @@ withDefaults(defineProps<Props>(), {
 
 <template>
   <NuxtLink
-    href="https://play.google.com/store/apps/details?id=com.yourmoneyclockyeah.moneymoneymoney&hl=fr&gl=GB"
+    href="https://www.instagram.com/pikor_actus/"
     target="_blank"
     :class="['rounded font-medium text-center text-white bg-[#A39889] rounded-lg px-4 py-3 hover:bg-[#8B8072]',
       { 'lg:text-2xl lg:py-4 max-w-48 lg:max-w-72 w-full': size === 'xl' }]"

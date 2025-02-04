@@ -12,11 +12,11 @@ export const items = [
 export const footerItems = [
     {
         title: "Mentions légales",
-        path: "#",
+        path: "/mentions-legales",
     },
     {
         title: "Politique de confidentialité",
-        path: "#",
+        path: "/politique-de-confidentialite",
     },
     ...items
 ];
